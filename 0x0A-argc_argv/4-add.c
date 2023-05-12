@@ -5,10 +5,10 @@
 #include "main.h"
 
 /**
- * check_num - check - string there are digit
- * @str: array str
- *
- * Return: Always 0 (Success)
+ * main - Program that takes in all integer arguments and returns the sum
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 1 if a non-integer is among the passed in arguments, 0 otherwise
  */
 
 int main(int argc, char *argv[])
