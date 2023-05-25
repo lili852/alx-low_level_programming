@@ -1,11 +1,11 @@
-#ifndef CALCFUNC
-#define CALCFUNC
+#ifndef CALC_H
+#define CALC_H
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 /**
- * struct op - Short description
+ * struct op - Struct op
  * @op: the operator to ve examined
  * @f: pointer to function.
  *
